@@ -1,2 +1,4 @@
-# Tracking-of-hands-holding-objects-implementations-and-limitations
+# Tracking of hands holding objects implementations and limitations
 Research project carried out in the computer vision field
+# Abstract:
+Real time information extraction from data in video format poses a significant challenge in the field of computer vision. Tracking of hands manipulating objects in a three-dimensional environment presents a plethora of approaches and manipulation of difficult data and structures, however the potential applications in segments such as wearable computers, augmented reality and in some cases sports performance analysis evince the importance and the prospects of this practice, incentivizing further research. This paper proposes an insight on some extensive literature review carried out on existing proposed methodologies and techniques offered by various computer vision enthusiast. Given the number of different types of possible approaches when tracking the manipulation of objects in real time, this paper analyses the implications of some popular pipelines.
